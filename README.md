@@ -1,105 +1,82 @@
-# Tejas Bharsake - Full Stack .NET Developer
+# 👨‍💻 Tejas Bharsake - Full Stack .NET Developer
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack .NET Developer** with a strong focus on building scalable and efficient web applications using **.NET Core**, **C#**, **ASP.NET MVC**, **Azure**, and other cutting-edge technologies. 
-
-I love contributing to open-source projects, and I am constantly learning new skills and technologies to improve my development processes. Feel free to explore my repositories and reach out to me if you would like to collaborate or learn more about my work!
-
-[Website](http://tejasb.com) | [LinkedIn](https://www.linkedin.com/in/tejasbharsake) | [Email](mailto:tejas@example.com)
+Welcome to my GitHub! I'm **Tejas**, a passionate **.NET Developer** eager to learn and grow in building web applications and cloud solutions using **.NET Core**, **C#**, and **Azure**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-I specialize in a wide range of tools and technologies to develop robust and scalable applications. Here's a quick overview of what I work with:
+Here's a list of the tools and languages I love working with:
 
-- **Languages**: C#, JavaScript, SQL, TypeScript
-- **Frameworks**: .NET Core, ASP.NET MVC, ASP.NET Web API, Entity Framework, Blazor
-- **Front-end**: Angular, HTML5, CSS3, JavaScript, jQuery
-- **Cloud**: Microsoft Azure, Azure Functions, Azure DevOps
-- **Database**: SQL Server, Cosmos DB, MySQL
-- **Tools**: Visual Studio, Docker, Git, GitHub, Jenkins, Postman
-- **Version Control**: Git, GitHub, Bitbucket
+![C#](https://img.shields.io/badge/-C%23-000000?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=azure&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-Here are some of the key projects I’ve worked on, showcasing my experience and skills in developing full-stack applications, APIs, and cloud solutions.
-
-### 1. **E-commerce Web Application**
-   - **Description**: A fully functional e-commerce platform built with **ASP.NET Core**, **SQL Server**, and **Entity Framework**.
-   - **Technologies**: ASP.NET Core, Entity Framework, SQL Server, JavaScript, HTML5, CSS3
-   - **Features**:
-     - User Authentication and Authorization
-     - Product Management
-     - Cart and Checkout System
-     - Payment Integration (Stripe API)
-   - [View Project on GitHub](https://github.com/tejas-dotnet/ecommerce-web-app)
-
-### 2. **Book Management API**
-   - **Description**: A RESTful API for managing a collection of books using **ASP.NET Core**.
-   - **Technologies**: ASP.NET Core Web API, C#, Swagger, Entity Framework
-   - **Features**:
-     - CRUD Operations for Books
-     - Swagger Documentation
-     - Unit Testing with xUnit
-   - [View Project on GitHub](https://github.com/tejas-dotnet/book-management-api)
-
-### 3. **Azure Function Cloud Integration**
-   - **Description**: A serverless cloud application built using **Azure Functions** and **C#**.
-   - **Technologies**: Azure Functions, C#, Azure Storage, Azure Queues
-   - **Features**:
-     - Serverless API for Cloud Services
-     - Integration with Azure Blob Storage and Queues
-   - [View Project on GitHub](https://github.com/tejas-dotnet/azure-functions)
+- **Languages**: C#, JavaScript, SQL
+- **Frameworks**: .NET Core, ASP.NET MVC, Entity Framework
+- **Database**: SQL Server, Cosmos DB
+- **Cloud**: Azure, Azure Functions
+- **Tools**: Git, GitHub, Visual Studio, Docker
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 Featured Projects
 
-### Full Stack .NET Developer - **Nexpro247**
-- **Duration**: January 2023 – Present
-- Developed scalable, secure web applications using **.NET Core** and **C#**.
-- Implemented APIs with **ASP.NET Web API** and integrated **Angular** front-end.
-- Worked on cloud-based solutions using **Azure Functions** and **Azure Storage**.
-- Followed Agile methodology to deliver high-quality software and meet project deadlines.
+### **1. E-commerce Web Application**
 
----
+A fully functional e-commerce website built using **.NET Core** and **Entity Framework**.
 
-## 🔧 My Development Practices
+![E-commerce](https://media.giphy.com/media/3o6Zt6XjP2VV2gjmMc/giphy.gif)
 
-I follow best practices in software development to ensure clean, maintainable, and efficient code:
+- **Technologies Used**: **ASP.NET Core**, **SQL Server**, **Entity Framework**
+- **Features**: User authentication, Product Management, Cart system, Payment Integration
 
-- **SOLID Principles**: I follow SOLID principles to write maintainable and extensible code.
-- **Unit Testing**: I write unit tests using frameworks like **xUnit** and **MSTest** to ensure high-quality code.
-- **Version Control**: I am proficient in using **Git** and **GitHub** for version control and collaboration.
-- **CI/CD**: I have experience with **Azure DevOps** for continuous integration and continuous deployment pipelines.
+[View Project on GitHub](https://github.com/tejas-dotnet/ecommerce-web-app)
 
----
+### **2. Book Management API**
 
-## 🌱 Current Learning
+A RESTful API built using **ASP.NET Core** and **Swagger** for managing books in a library.
 
-I am currently focusing on improving my skills in the following areas:
+![API](https://media.giphy.com/media/xT0xeJpnrWC4XyHt6I/giphy.gif)
 
-- **Cloud Computing** with **Azure** and **AWS**.
-- **Microservices** Architecture using **.NET Core** and **Docker**.
-- Enhancing my **front-end** skills in **React** and **Vue.js**.
-- Learning about **AI and Machine Learning** for integrating with .NET applications.
+- **Technologies Used**: **ASP.NET Core Web API**, **Swagger**, **xUnit**
+- **Features**: CRUD Operations, Swagger Documentation, Unit Testing
+
+[View Project on GitHub](https://github.com/tejas-dotnet/book-management-api)
 
 ---
 
-## 📚 Blog & Articles
+## 💡 Development Practices
 
-I write about software development, **.NET**, **C#**, and cloud technologies. You can check out my blog posts and articles here:
+I believe in writing **clean, readable, and maintainable code**. Here are some of my key practices:
 
-- [Blog Post 1 - Introduction to .NET Core](http://tejasb.com/net-core)
-- [Blog Post 2 - Building Scalable APIs with ASP.NET Core](http://tejasb.com/scalable-apis)
+- **SOLID Principles**: Ensuring code is scalable and maintainable.
+- **Unit Testing**: Writing tests using **xUnit** to ensure quality.
+- **Version Control**: Using **Git** for all my projects.
+- **CI/CD**: Automating workflows with **Azure DevOps**.
 
 ---
 
-## 📬 Get in Touch
+## 📚 Current Learning
 
-If you would like to connect or collaborate, feel free to reach out:
+I'm always learning new things. Currently, I'm exploring:
+
+- **Microservices** architecture with **.NET Core**
+- **React** for Frontend Development
+- **Docker** and **Kubernetes** for containerization
+
+---
+
+## 🎥 Check Out My Projects & Tutorials
+
+I also create tutorials to help others learn **.NET** and **C#**!
+
+- [Learn .NET Core - Blog Post](http://tejasb.com/net-core)
+- [Build a RESTful API with ASP.NET Core - Blog Post](http://tejasb.com/restful-api)
+
+---
+
+## 📬 Connect with Me
+
+I love collaborating and learning with others! You can reach out to me here:
 
 - **Email**: [tejas@example.com](mailto:tejas@example.com)
 - **LinkedIn**: [Tejas Bharsake](https://www.linkedin.com/in/tejasbharsake)
@@ -109,5 +86,4 @@ If you would like to connect or collaborate, feel free to reach out:
 
 ## 💼 Open to Opportunities
 
-I am always open to new and exciting opportunities. If you are looking for a **Full Stack .NET Developer** or a **C# Developer**, feel free to contact me. Let's create something amazing together!
-
+I'm always looking for new challenges! If you're looking for a **Full Stack .NET Developer**, feel free to reach out. Let's build something amazing together! 🚀
