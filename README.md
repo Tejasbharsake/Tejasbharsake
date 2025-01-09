@@ -1,97 +1,76 @@
-# 👨‍💻 Tejas Bharsake - Software Engineer | .NET Developer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tejasbharsake.tejasbharsake" />
 
-Hi there! I'm **Tejas**, a passionate **Software Engineer** and **.NET Developer**. I specialize in creating robust web applications and APIs using **.NET Core**, **C#**, **ASP.NET**, and cloud technologies like **Azure**.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tejas+Bharsake!;" />
+</h1>
 
----
+<h3 align="center">A passionate .NET Developer from India 🇮🇳</h3>
 
-## 🌟 Technologies & Tools
+<br/>
 
-I enjoy working with the following tools and technologies:
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Decentralized Content Distribution Platform** using .NET, Ethereum, and IPFS.
+ 
+ 🌱 I’m currently learning **Docker, Azure, Cloud Services**
 
-![C#](https://img.shields.io/badge/-C%23-000000?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=azure&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-003B57?logo=microsoftsqlserver&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+💬 Ask me about **C#, .NET, SQL, Azure... or anything [here](https://github.com/tejasbharsake/tejasbharsake/issues)**
 
-- **Languages**: C#, JavaScript, SQL
-- **Frameworks**: .NET Core, ASP.NET MVC, Entity Framework
-- **Cloud**: Azure, Azure Functions
-- **Databases**: SQL Server, Cosmos DB
-- **Frontend**: Angular, HTML5, CSS3, JavaScript
-- **Tools**: Git, Visual Studio, Docker, GitHub
+⚡ Fun fact **Did you know that .NET Core was initially open-sourced by Microsoft in 2014?**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:tejasbharsake@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/tejas-bharsake" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tejasbharsake.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
 
-## 🚀 Featured Projects
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,html,css,vscode,github,figma,tailwind,git,sql,azure" />
+    <img src="https://skillicons.dev/icons?i=c#,mvc,razor,entityframework,aspnet,blazor,azure,postgresql" /><br>
+</div>
 
-### **1. Task Manager Application**
+<br/>
+<hr/>
 
-A web-based **Task Manager** built with **ASP.NET Core**, allowing users to manage their daily tasks with features like authentication, task creation, and task status tracking.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tejasbharsake/tejasbharsake/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-![Task Manager GIF](https://media.giphy.com/media/3o7bUuWZq2bSvJQyVq/giphy.gif)
+<hr/>
 
-- **Technologies Used**: ASP.NET Core, SQL Server, Entity Framework
-- **Features**: User Authentication, Task Management, Real-Time Updates
-- **[View Project on GitHub](https://github.com/tejas-dotnet/task-manager)**
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-tejasbharsake.vercel.app/?user=tejasbharsake&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-tejasbharsake.vercel.app/api?username=tejasbharsake&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-tejasbharsake.vercel.app/api/top-langs/?username=tejasbharsake&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-### **2. Personal Blog API**
+<hr/>
 
-A RESTful API for a **Personal Blog** built with **ASP.NET Core**, which allows users to create, edit, and delete blog posts.
+<br/>
 
-![API GIF](https://media.giphy.com/media/3o7btUGM0mZCo3KZpS/giphy.gif)
+<div align="center">
+<a href='https://ko-fi.com/tejasbharsake' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-- **Technologies Used**: ASP.NET Core Web API, SQL Server
-- **Features**: CRUD operations, Swagger for API documentation, Unit Testing
-- **[View Project on GitHub](https://github.com/tejas-dotnet/personal-blog-api)**
-
----
-
-## 💻 Skills & Practices
-
-### **Key Skills**:
-
-- **System Design**: Understanding of basic system architecture and design patterns.
-- **Data Structures & Algorithms**: Proficient in using data structures like arrays, lists, and trees to solve problems.
-- **Responsive Web Design**: Building responsive websites that work across devices and browsers.
-- **CI/CD**: Familiar with Continuous Integration and Continuous Deployment practices using **Azure DevOps**.
-
----
-
-## 📚 Current Learning
-
-I am currently enhancing my skills in the following areas:
-
-- **Microservices** architecture with **.NET Core**
-- **Docker** and **Kubernetes** for containerization and orchestration
-- **React.js** for frontend development
-- **Advanced Azure Services** for cloud computing
-
----
-
-## 🔭 Explore My Work
-
-Feel free to explore my repositories, and let me know if you'd like to collaborate on any projects! 🚀
-
-- **Portfolio**: [tejasb.com](http://tejasb.com)
-- **Blog**: [tejasb.com/blog](http://tejasb.com/blog)
-- **YouTube Channel**: [Tech Crown](https://www.youtube.com/c/TechCrown)
-
----
-
-## 📬 Connect with Me
-
-You can reach out to me at:
-
-- **Email**: [tejas@example.com](mailto:tejas@example.com)
-- **LinkedIn**: [Tejas Bharsake](https://www.linkedin.com/in/tejasbharsake)
-- **Twitter**: [@tejas_b](https://twitter.com/tejas_b)
-
----
-
-## 💼 Open to Job Opportunities
-
-Looking for new challenges! Feel free to reach out if you're hiring a **Full Stack .NET Developer** or **Software Engineer**. Let's build something great together! 🚀
+<br/>
