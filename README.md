@@ -1,82 +1,90 @@
-# 👨‍💻 Tejas Bharsake - Full Stack .NET Developer
+# 👨‍💻 Tejas Bharsake - Software Engineer | .NET Developer
 
-Welcome to my GitHub! I'm **Tejas**, a passionate **.NET Developer** eager to learn and grow in building web applications and cloud solutions using **.NET Core**, **C#**, and **Azure**.
+Hi there! I'm **Tejas**, a passionate **Software Engineer** and **.NET Developer**. I specialize in creating robust web applications and APIs using **.NET Core**, **C#**, **ASP.NET**, and cloud technologies like **Azure**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌟 Technologies & Tools
 
-Here's a list of the tools and languages I love working with:
+I enjoy working with the following tools and technologies:
 
-![C#](https://img.shields.io/badge/-C%23-000000?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=azure&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-003B57?logo=microsoftsqlserver&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 - **Languages**: C#, JavaScript, SQL
 - **Frameworks**: .NET Core, ASP.NET MVC, Entity Framework
-- **Database**: SQL Server, Cosmos DB
 - **Cloud**: Azure, Azure Functions
-- **Tools**: Git, GitHub, Visual Studio, Docker
+- **Databases**: SQL Server, Cosmos DB
+- **Frontend**: Angular, HTML5, CSS3, JavaScript
+- **Tools**: Git, Visual Studio, Docker, GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
-### **1. E-commerce Web Application**
+### **1. Task Manager Application**
 
-A fully functional e-commerce website built using **.NET Core** and **Entity Framework**.
+A web-based **Task Manager** built with **ASP.NET Core**, allowing users to manage their daily tasks with features like authentication, task creation, and task status tracking.
 
-![E-commerce](https://media.giphy.com/media/3o6Zt6XjP2VV2gjmMc/giphy.gif)
+![Task Manager GIF](https://media.giphy.com/media/3o7bUuWZq2bSvJQyVq/giphy.gif)
 
-- **Technologies Used**: **ASP.NET Core**, **SQL Server**, **Entity Framework**
-- **Features**: User authentication, Product Management, Cart system, Payment Integration
-
-[View Project on GitHub](https://github.com/tejas-dotnet/ecommerce-web-app)
-
-### **2. Book Management API**
-
-A RESTful API built using **ASP.NET Core** and **Swagger** for managing books in a library.
-
-![API](https://media.giphy.com/media/xT0xeJpnrWC4XyHt6I/giphy.gif)
-
-- **Technologies Used**: **ASP.NET Core Web API**, **Swagger**, **xUnit**
-- **Features**: CRUD Operations, Swagger Documentation, Unit Testing
-
-[View Project on GitHub](https://github.com/tejas-dotnet/book-management-api)
+- **Technologies Used**: ASP.NET Core, SQL Server, Entity Framework
+- **Features**: User Authentication, Task Management, Real-Time Updates
+- **[View Project on GitHub](https://github.com/tejas-dotnet/task-manager)**
 
 ---
 
-## 💡 Development Practices
+### **2. Personal Blog API**
 
-I believe in writing **clean, readable, and maintainable code**. Here are some of my key practices:
+A RESTful API for a **Personal Blog** built with **ASP.NET Core**, which allows users to create, edit, and delete blog posts.
 
-- **SOLID Principles**: Ensuring code is scalable and maintainable.
-- **Unit Testing**: Writing tests using **xUnit** to ensure quality.
-- **Version Control**: Using **Git** for all my projects.
-- **CI/CD**: Automating workflows with **Azure DevOps**.
+![API GIF](https://media.giphy.com/media/3o7btUGM0mZCo3KZpS/giphy.gif)
+
+- **Technologies Used**: ASP.NET Core Web API, SQL Server
+- **Features**: CRUD operations, Swagger for API documentation, Unit Testing
+- **[View Project on GitHub](https://github.com/tejas-dotnet/personal-blog-api)**
+
+---
+
+## 💻 Skills & Practices
+
+### **Key Skills**:
+
+- **System Design**: Understanding of basic system architecture and design patterns.
+- **Data Structures & Algorithms**: Proficient in using data structures like arrays, lists, and trees to solve problems.
+- **Responsive Web Design**: Building responsive websites that work across devices and browsers.
+- **CI/CD**: Familiar with Continuous Integration and Continuous Deployment practices using **Azure DevOps**.
 
 ---
 
 ## 📚 Current Learning
 
-I'm always learning new things. Currently, I'm exploring:
+I am currently enhancing my skills in the following areas:
 
 - **Microservices** architecture with **.NET Core**
-- **React** for Frontend Development
-- **Docker** and **Kubernetes** for containerization
+- **Docker** and **Kubernetes** for containerization and orchestration
+- **React.js** for frontend development
+- **Advanced Azure Services** for cloud computing
 
 ---
 
-## 🎥 Check Out My Projects & Tutorials
+## 🔭 Explore My Work
 
-I also create tutorials to help others learn **.NET** and **C#**!
+Feel free to explore my repositories, and let me know if you'd like to collaborate on any projects! 🚀
 
-- [Learn .NET Core - Blog Post](http://tejasb.com/net-core)
-- [Build a RESTful API with ASP.NET Core - Blog Post](http://tejasb.com/restful-api)
+- **Portfolio**: [tejasb.com](http://tejasb.com)
+- **Blog**: [tejasb.com/blog](http://tejasb.com/blog)
+- **YouTube Channel**: [Tech Crown](https://www.youtube.com/c/TechCrown)
 
 ---
 
 ## 📬 Connect with Me
 
-I love collaborating and learning with others! You can reach out to me here:
+You can reach out to me at:
 
 - **Email**: [tejas@example.com](mailto:tejas@example.com)
 - **LinkedIn**: [Tejas Bharsake](https://www.linkedin.com/in/tejasbharsake)
@@ -84,6 +92,6 @@ I love collaborating and learning with others! You can reach out to me here:
 
 ---
 
-## 💼 Open to Opportunities
+## 💼 Open to Job Opportunities
 
-I'm always looking for new challenges! If you're looking for a **Full Stack .NET Developer**, feel free to reach out. Let's build something amazing together! 🚀
+Looking for new challenges! Feel free to reach out if you're hiring a **Full Stack .NET Developer** or **Software Engineer**. Let's build something great together! 🚀
