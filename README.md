@@ -327,10 +327,10 @@ End-to-end AI applications: **AI Mock Interviews**, **Document Intelligence**, *
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Tejasbharsake&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started" alt="GitHub Stats"/>
+      <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Tejasbharsake&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Tejasbharsake&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=Tejasbharsake&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
@@ -338,10 +338,10 @@ End-to-end AI applications: **AI Mock Interviews**, **Document Intelligence**, *
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasbharsake&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top Languages"/>
+      <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tejasbharsake&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&langs_count=10" alt="Top Languages"/>
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejasbharsake&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+      <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/wakatime?username=Tejasbharsake&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&layout=compact" alt="WakaTime Stats"/>
     </td>
   </tr>
 </table>
@@ -358,7 +358,9 @@ End-to-end AI applications: **AI Mock Interviews**, **Document Intelligence**, *
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tejasbharsake&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tejasbharsake&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" width="100%"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tejasbharsake&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&rank=SECRET,SSS,SS,S" alt="Secret Trophies" width="60%"/>
 
 </div>
 
