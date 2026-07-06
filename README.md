@@ -44,6 +44,22 @@
   <img src="https://img.shields.io/badge/🎯_Open_For-Remote%20Worldwide-6e40c9?style=flat-square" alt="Remote"/>
 </p>
 
+<!-- ─── PROFILE PHOTO CARD ─────────────────────────────────────────────── -->
+<br/>
+
+<a href="https://github.com/Tejasbharsake">
+  <img
+    src="assets/profile.jpg"
+    alt="Tejas Bharsake — Senior Full Stack .NET + AI Engineer"
+    width="160"
+    height="160"
+    style="border-radius:50%; border:4px solid #1F6FEB; box-shadow:0 0 25px #1F6FEB88; object-fit:cover;"
+  />
+</a>
+
+<br/>
+<sub><b>📸 Tejas Bharsake</b> &nbsp;|&nbsp; Senior Full Stack .NET + AI Engineer &nbsp;|&nbsp; India 🇮🇳</sub>
+
 </div>
 
 ---
@@ -52,7 +68,27 @@
 <!--                       SECTION 2 — ABOUT ME                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Senior Dev" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table align="right">
+<tr><td>
+
+<div align="center">
+  <img
+    src="assets/profile.jpg"
+    alt="Tejas Bharsake"
+    width="220"
+    height="220"
+    style="border-radius:50%; border:3px solid #58A6FF; box-shadow:0 0 30px #1F6FEB99; object-fit:cover;"
+  />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Senior_.NET-+AI_Engineer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🟢-Available_Now-28a745?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡-Immediate_Joiner-FF6B35?style=flat-square"/>
+</div>
+
+</td></tr>
+</table>
 
 ## 🧑‍💻 &nbsp;`whoami` — About Me
 
