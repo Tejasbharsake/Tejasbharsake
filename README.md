@@ -16,9 +16,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,60:1a1a2e,100:16213e&height=220&section=header&text=TEJAS%20BHARSAKE&fontSize=62&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&stroke=1F6FEB&strokeWidth=2&desc=Senior%20Full%20Stack%20.NET%20%2B%20AI%20Engineer%20%E2%80%82%7C%E2%80%82%203.5%2B%20Years%20Experience%20%E2%80%82%7C%E2%80%82%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=62&descAlign=50&descSize=17&descColor=8B949E" width="100%"/>
 
-<!-- ─── TYPING ANIMATION ──────────────────────────────────────────────────── -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=55&lines=🚀+Senior+Full+Stack+.NET+%2B+AI+Engineer;🤖+Building+AI-Powered+Enterprise+Applications;☁️+Azure+Cloud+%7C+Docker+%7C+Kubernetes+Specialist;⛓️+Blockchain+%26+Web3+Developer;🌐+Open+to+Google+%7C+Microsoft+%7C+Amazon+%7C+Sony;💡+Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG"/>
+<!-- ─── TYPING ANIMATION (inline SVG — no external service needed) ─────────── -->
+<a href="https://github.com/Tejasbharsake">
+<img src="https://raw.githubusercontent.com/Tejasbharsake/Tejasbharsake/main/assets/typing.svg" alt="Typing Animation"/>
 </a>
 
 <br/>
