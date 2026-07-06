@@ -335,13 +335,21 @@ End-to-end AI applications: **AI Mock Interviews**, **Document Intelligence**, *
   </tr>
 </table>
 
+<br/>
+
 <table>
   <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tejasbharsake&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&langs_count=10" alt="Top Languages"/>
+    <td width="25%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejasbharsake&theme=github_dark" alt="Stats"/>
     </td>
-    <td width="50%">
+    <td width="25%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejasbharsake&theme=github_dark" alt="Repos Per Language"/>
+    </td>
+    <td width="25%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejasbharsake&theme=github_dark" alt="Most Commit Language"/>
+    </td>
+    <td width="25%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejasbharsake&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
     </td>
   </tr>
 </table>
@@ -354,15 +362,50 @@ End-to-end AI applications: **AI Mock Interviews**, **Document Intelligence**, *
 <!--                       SECTION 6 — TROPHIES                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Achievements
+<!-- Trophy widget replaced with reliable profile badges -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Trophies-GitHub_Achievements-58A6FF?style=for-the-badge&logo=github" alt="Achievements"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tejasbharsake&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" width="100%"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Tejasbharsake&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&rank=SECRET,SSS,SS,S" alt="Secret Trophies" width="60%"/>
 
-</div>
+<table>
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://img.shields.io/badge/Commits-28%2B-28a745?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+      <br/><sub>Total Commits</sub>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://img.shields.io/badge/PRs-10%2B-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="PRs"/>
+      <br/><sub>Pull Requests</sub>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://img.shields.io/badge/Stars-2%2B-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars"/>
+      <br/><sub>Stars Earned</sub>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://img.shields.io/badge/Repos-16%2B-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+      <br/><sub>Public Repos</sub>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://img.shields.io/badge/Experience-3.5%2B_Years-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Experience"/>
+      <br/><sub>.NET Experience</sub>
+    </td>
+    <td align="center" width="16%">
+      <img src="https://img.shields.io/badge/Projects-20%2B-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white" alt="Projects"/>
+      <br/><sub>Projects Built</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasbharsake&theme=github_dark" alt="Profile Details" width="100%"/>
+
 
 ---
 
